@@ -1,8 +1,5 @@
-streamlit
-serpapi
-requests
-base64
-spotipy.oauth2
+streamlit==1.36.0
 openai==0.10.2
-serpapi  # Remove the version specification to install the latest compatible version
+serpapi==0.1.5
+requests==2.32.3
 spotipy==2.18.0
