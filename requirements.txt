@@ -1,6 +1,6 @@
 streamlit
 openai
-serpapi
+serpapi==0.7.0
 requests
 base64
 spotipy.oauth2
