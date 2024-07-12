@@ -1,2 +1,7 @@
 streamlit
 openai
+serpapi
+requests
+base64
+spotipy.oauth2
+spotipy
